@@ -7,9 +7,10 @@ Express JS - https://www.youtube.com/watch?v=x2FZQsQiHl0&list=RDCMUC_issB-37g9lw
 Rest API Node JS - https://www.youtube.com/watch?v=d_vXgK4uZJM&list=PLWgD0gfm500EMEDPyb3Orb28i7HK5_DkR
 
 Test application =>
-1- Open the terminal in the index.js folder(TesteDevPleno/src) and execute 'node index.js' or 'nodemon index.js'.
-2- Login's page gonna open, you can test the restritions about valid email and eight caracthers password.
-3- Test the neutral face and click on the page to change to the sad face.
-4- Put the mouse over the neutral face to make sad.
-5- Click again to change and put the mouse over the neutral face again to make happy.
+1- Open the terminal in the index.js folder(/TesteDevPleno) and execute 'npm install' to get node_modules.
+2- Open the terminal in the index.js folder(/TesteDevPleno/src) and execute 'node index.js' or 'nodemon index.js'.
+3- Login's page gonna open, you can test the restritions about valid email and eight caracthers password.
+4- Test the neutral face and click on the page to change to the sad face.
+5- Put the mouse over the neutral face to make sad.
+6- Click again to change and put the mouse over the neutral face again to make happy.
 
